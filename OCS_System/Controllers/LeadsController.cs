@@ -6,14 +6,10 @@ using System.Web.Mvc;
 
 namespace OCS_System.Controllers
 {
-    public class AccountController : Controller
+    public class LeadsController : Controller
     {
-        // GET: Account
+        // GET: Leads
         public ActionResult Index()
-        {
-            return View();
-        }
-        public ActionResult Icons()
         {
             return View();
         }
