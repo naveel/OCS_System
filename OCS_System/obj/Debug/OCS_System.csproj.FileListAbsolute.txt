@@ -30,3 +30,35 @@ c:\users\naveel\documents\visual studio 2015\Projects\OCS_System\OCS_System\bin\
 c:\users\naveel\documents\visual studio 2015\Projects\OCS_System\OCS_System\obj\Debug\OCS_System.csprojResolveAssemblyReference.cache
 c:\users\naveel\documents\visual studio 2015\Projects\OCS_System\OCS_System\obj\Debug\OCS_System.dll
 c:\users\naveel\documents\visual studio 2015\Projects\OCS_System\OCS_System\obj\Debug\OCS_System.pdb
+E:\Projects\OCS_System\OCS_System\bin\ApplicationInsights.config
+E:\Projects\OCS_System\OCS_System\bin\OCS_System.dll.config
+E:\Projects\OCS_System\OCS_System\bin\OCS_System.dll
+E:\Projects\OCS_System\OCS_System\bin\OCS_System.pdb
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.Web.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Helpers.dll
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Mvc.dll
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Razor.dll
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Webpages.dll
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Webpages.Razor.dll
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.Web.xml
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\OCS_System\OCS_System\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Razor.xml
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Webpages.xml
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Webpages.Razor.xml
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Helpers.xml
+E:\Projects\OCS_System\OCS_System\bin\System.Web.Mvc.xml
+E:\Projects\OCS_System\OCS_System\obj\Debug\OCS_System.csprojResolveAssemblyReference.cache
+E:\Projects\OCS_System\OCS_System\obj\Debug\OCS_System.dll
+E:\Projects\OCS_System\OCS_System\obj\Debug\OCS_System.pdb
